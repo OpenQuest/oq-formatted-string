@@ -1,7 +1,7 @@
 {
   "name": "oq-formatted-string",
   "version": "1.0.0",
-  "description": "给定键值对或对象，得到格式化字符串",
+  "description": "Replace tokens from a string with values of an object. 给定键值对或对象，得到格式化字符串",
   "main": "index.js",
   "scripts": {
     "test": ""
