@@ -4,7 +4,7 @@
   "description": "给定键值对或对象，得到格式化字符串",
   "main": "index.js",
   "scripts": {
-    "test": "xo && ava"
+    "test": ""
   },
   "repository": {
     "type": "git",
@@ -20,5 +20,12 @@
   "bugs": {
     "url": "https://github.com/OpenQuest/oq-formatted-string/issues"
   },
-  "homepage": "https://github.com/OpenQuest/oq-formatted-string#readme"
+  "homepage": "https://github.com/OpenQuest/oq-formatted-string#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "gulp": "^3.9.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-strip-comments": "^2.4.3",
+    "mocha": "^3.2.0"
+  }
 }
